@@ -3,25 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Cartesian Coordinate System</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="cartesian.html">Interactive Cartesian</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section class="intro">
-            <h1>Welcome to My Portfolio</h1>
-            <p>Hello! I'm Narayan Mishra<sup>bunny></sup>, a passionate <span id="dynamic-skill">Web Developer</span>.</p>
-            <p>Contact me at: <a href="mailto:flrbunny0@gmail.com">flrbunny0@gmail.com</a></p>
-        </section>
-    </main>
+    <h1>Cartesian Coordinate System</h1>
+
+    <!-- Input fields for manual coordinate entry -->
+    <div class="input-container">
+        <label>Point 1 (x₁, y₁): </label>
+        <input type="number" id="x1" placeholder="x1">
+        <input type="number" id="y1" placeholder="y1">
+        <br>
+        <label>Point 2 (x₂, y₂): </label>
+        <input type="number" id="x2" placeholder="x2">
+        <input type="number" id="y2" placeholder="y2">
+        
+        <button onclick="plotManualPoints()">Plot & Calculate</button>
+    </div>
+
+    <canvas id="cartesianCanvas"></canvas>
+    <p id="coordinates">Enter coordinates or click on the plane.</p>
+    
     <script src="script.js"></script>
 </body>
 </html>
