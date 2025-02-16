@@ -1,0 +1,79 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(45deg, red, cyan);
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    margin-top: 50px;
+}
+
+.cartesian-container {
+    margin-top: 20px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 60px;
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: cyan;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightblue;
+}
+
+canvas {
+    border: 2px solid white;
+    background-color: black;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
