@@ -6,6 +6,10 @@
 
 
 
+
+
+
+
 ## About Me
 
 Hi, I'm Bunny! I'm a passionate web developer with a keen interest in creating interactive and user-friendly web applications. My expertise includes:
@@ -16,14 +20,21 @@ Hi, I'm Bunny! I'm a passionate web developer with a keen interest in creating i
 
 
 
+
+
+
+
 ## Projects
 
 Here are some of my notable projects:
 
-### [Interactive-Graph](https://github.com/FLR-Bunny-dev/Interactive-Graph)
+### [## Advanced Graph System](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
 
-An interactive Cartesian coordinate system tool that allows users to plot points and calculate slopes dynamically.
-![Interactive-Graph Demo](https://via.placeholder.com/800x400.png?text=Interactive-Graph+Demo)
+A powerful interactive graphing tool that lets users plot points, calculate slopes, and analyze coordinate geometry dynamically...., Math is easy when it comes to coding!!!
+
+
+
+
 
 
 
@@ -31,7 +42,7 @@ An interactive Cartesian coordinate system tool that allows users to plot points
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to connect with me:
 
-- **Email:** [my.email](flrbunny0@gmail.com)
+- **Email:** [Email.Me](flrbunny0@gmail.com)
 - **LinkedIn:** [linkedin.com/myprofile](https://www.linkedin.com/in/narayan-mishra-602357350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Whatsapp:** wa.me/+917307819020
 
