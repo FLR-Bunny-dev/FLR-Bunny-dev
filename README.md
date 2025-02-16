@@ -31,10 +31,11 @@ An interactive Cartesian coordinate system tool that allows users to plot points
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to connect with me:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [my.email](flrbunny0@gmail.com)
+- **LinkedIn:** [linkedin.com/myprofile](https://www.linkedin.com/in/narayan-mishra-602357350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Whatsapp:** wa.me/+917307819020
 
+- 
 Let's build something amazing together!
 
 ---
