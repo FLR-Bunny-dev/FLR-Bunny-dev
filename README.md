@@ -22,15 +22,15 @@ Hi, I'm Bunny! I'm a passionate web developer with a keen interest in creating i
 
 
 
+## 🚀 Projects 
 
 
-## Projects
-
-Here are some of my notable projects:
 
 ### [## Advanced Graph System](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
 
 A powerful interactive graphing tool that lets users plot points, calculate slopes, and analyze coordinate geometry dynamically...., Math is easy when it comes to coding!!!
+
+🔗 **Live Demo:** [Try it here](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
 
 
 
