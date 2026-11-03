@@ -12,19 +12,23 @@
 
 ## About Me
 
-Hi, I'm Bunny! I'm a passionate web developer with a keen interest in creating interactive and user-friendly web applications. My expertise includes:
+# Hi, I'm Bunny 👋
 
-- **Frontend Development:** HTML5, CSS3, JavaScript
-- **UI/UX Design:** Crafting intuitive and engaging user interfaces
-- **Creative Coding:** Experimenting with animations and visual effects
+I'm learning web development with HTML, CSS, and JavaScript.
+
+## Currently
+- Building my first web projects
+- Learning how to make pages responsive
+
+## Contact
+- Email: not yet ..i'll give u in shortly 
+
 
 
 
 
 
 ## 🚀 Projects 
-
-
 
 ### [## Advanced Graph System](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
 
@@ -34,19 +38,9 @@ A powerful interactive graphing tool that lets users plot points, calculate slop
 
 
 
-
-
-
-
 ## Get in Touch
 
 I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to connect with me:
-
-- **Email:** [Email.Me](flrbunny0@gmail.com)
-- **LinkedIn:** [linkedin.com/myprofile](https://www.linkedin.com/in/narayan-mishra-602357350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Whatsapp:** wa.me/+917307819020
-
-- 
 Let's build something amazing together!
 
 ---
