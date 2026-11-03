@@ -13,17 +13,18 @@ I'm a beginner web developer learning HTML, CSS, and JavaScript. I'm building sm
 
 ## Projects ✨
 
-###[Portfolio](https://flr-bunny-dev.github.io/Portfolio/)
+### [Portfolio](https://flr-bunny-dev.github.io/Portfolio/)
 My personal portfolio page with my bio, projects, and contact details.
 
-###[Advanced Graph System](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
+### [Advanced Graph System](https://flr-bunny-dev.github.io/FLR-Bunny-dev/)
 An interactive graphing tool where you can plot points, calculate slopes, and explore coordinate geometry.
 
-🔗 **Live demo:** https://flr-bunny-dev.github.io/FLR-Bunny-dev/
+
 
 ## Currently ✨
 - Learning HTML, CSS, and JavaScript
 - Building my next project
+
 
 ## Contact ✨
 - Email: [causalgmail@gmail.com](mailto:causalgmail@gmail.com)
