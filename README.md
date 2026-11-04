@@ -8,7 +8,7 @@
 ## About Me ☠️
 
 # Hi, I'm Bunny 👋
-I'm a beginner web developer learning HTML, CSS, and JavaScript. I'm building small projects to get better at writing clean, interactive web pages.
+I'm a creative web developer learning HTML, CSS, and JavaScript. I'm building small projects to get better at writing clean, interactive web pages.
 
 
 ## Projects ✨
